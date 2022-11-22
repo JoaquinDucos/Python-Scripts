@@ -29,7 +29,7 @@ def menu():
     print('\n')
     print('*'*54)
     print("*" + ' '*52 +'*')
-    print("*" + ' '*12 +'| TRADUCTOR CÓDIGO BINARIO |'+' '*12 +'*')
+    print("*" + ' '*8 +'| FACTORIAL, COMBINACION, VARIACION |'+' '*7 +'*')
     print("*" + ' '*52 + '*')
     print("*" + ' '*5 + 'MENU:' + ' '*42 + '*') 
     print("*" + ' '*52 + '*')
